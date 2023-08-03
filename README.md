@@ -3,9 +3,7 @@
 <h2>About the project</h2>
 
   <p><b>Gymate</b> provide a space for people to improve their physical fitness and overall health through regular exercise and physical activity.</p>
-
-👉 Live Demo: <a href='https://gymate-stefvndev.vercel.app/'>Gymate Demo</a>
-
+  
 <h3>Build with:</h3>
 
 » Tailwind CSS <br>
@@ -49,28 +47,6 @@
 </div>
 <br>
 <br>
-<h3 align='center'>Gallery Page 👇</h3>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879218-7c49d152-b229-4b9a-8f89-5f3ab7fa8e67.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Pricing Page 👇</h3>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879240-a164e827-f8ac-4248-a294-a620f9c530d7.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>Login Page 👇</h3>
-
-<div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213879261-c4f4596c-0836-49b1-baa3-9abad0501486.png'/>
-</div>
-<br>
-<br>
-<h3 align='center'>About Page 👇</h3>
 
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/105128267/213912643-6deef1ff-505d-4d21-8a96-88be2fee242a.png'/>
